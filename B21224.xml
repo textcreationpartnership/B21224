@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between two burgesses, about chusing their next members of Parliament</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21224</idno><idno type="EEBO-CITATION">226317609</idno>
+  <idno type="VID">202062</idno>
+  <idno type="EEBO-PROQUEST">2240866900</idno>
+  
+            <idno type="OCLC"> 226317609</idno>
+            <idno type="STC">Wing D1339</idno>
+            <idno type="OCLC">ocn 226317609</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202062)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; D2:1[105])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between two burgesses, about chusing their next members of Parliament</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:202062:1"/>
+            <head>A DIALOGUE Between Two BURGESSES, About Chusing their Next <hi>Members of Parliament.</hi>
+            </head>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>WHither so fast, <hi>Will?</hi> What's the matter, man? Thou look'st as if thou wast frighted.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I think there's reason, <hi>Tom:</hi> for either our wise men are mad, or we are all stark fools; for the Parliament's Dissolv'd again, and a New One to sit at <hi>Oxford,</hi> which being so unexpected, passes my understanding to unfold the meaning of it, and therefore I'll say nothing to it; but what I do understand is, That we are of<g ref="char:EOLhyphen"/>fer'd brave Sparks to serve us, for there's Mr. <hi>Sweetlips,</hi> Mr. <hi>Swallow-Oath,</hi> Mr. <hi>High-Church,</hi> and Mr. <hi>Sell-Trust,</hi> have all writ, and are coming Post to court us to be our Servants; and being thou art an understanding Coxcomb, that go'st to the Cof<g ref="char:EOLhyphen"/>fee-house, and read'st all the News, I come to ask thee what we shall say to these Gentlemen, who are woundy civil, and very earnest to have our Promises.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I am afraid such Servants will too soon be asham'd of having us for their Masters, and we may repent too late the having such costly Servants. But wil't promise them all four, when thou hast but two to chuse? Let's consider them severally: Mr. <hi>Sweetlips</hi> you know is a Courtier: Now what's the business of a <hi>Parliament?</hi> Does not the Court still strive there to get as much Money and Power as they can? And the <hi>Parliament</hi> does or should spare our Money, and preserve our Liberty, as much as lies in their power; and do'st not see then that chusing such a one is setting the Lamb to the Wolf to Nurse.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Thou say'st right, we should e'en be as wise as the men of <hi>Gotam.</hi> Well but because he's a courteous fine Gentleman, and desires to serve me, I'll tell him, That if ever I have a Boon to beg of the King, or a Wedding-Suit to make in <hi>London,</hi> he shall have the honour, as he calls it, to be imployed by me before any man; but in this I must beg his pardon. But then what say'st to Mr. <hi>Swallow-Oath,</hi> who though 'tis true he always herded with the Papists, and was thought one for<g ref="char:EOLhyphen"/>merly, yet he now conforms to the Law, takes the Test, and rails at Popery as much as any man; and what shall we do with him?</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why if thou wilt do any thing to employ or trust him, put a Halter about his Neck, throw him into the <hi>Thames,</hi> and tie him to an Anchor, and let him swim there for a <hi>Bouy,</hi> which is the onely use such a man is good for, that will turn with every Tide. But we must have such Parliament-men as will stand as firm as Bulwarks for our Religion and Liberty; and must be blown up, or batter<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d down, before they'l yield.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Then sure thou'lt be for Squire <hi>High-Church,</hi> whom they call a <hi>Jure-Di<g ref="char:EOLhyphen"/>vino</hi>-man; for he talks of nothing else but the Church, of which he is so true a Son, tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> swears over a Glass of Wine, he wou'd rather break ten Command<g ref="char:EOLhyphen"/>ments of God, then one of the Bishops; and cut a hundred Fanaticks Throats, be<g ref="char:EOLhyphen"/>fore he would eat Flesh on a <hi>Friday:</hi> Besides, he is so pious, that he scorns all Laws and Statutes, and proves by Texts of Scripture, The Prince and the Prelate in all Countreys have as much Power as the Turk and Mufty.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Squire <hi>High-Church</hi> is a very good man to some purposes, but every man in his way, and none good for all things; I'll go to Church with him, but I won't
+<pb facs="tcp:202062:2"/>go with him to imprison and ruine my fellow Protestants that meet at a Godly Ex<g ref="char:EOLhyphen"/>ercise afterward in private, as if we must hang all that have more Piety then our selves. I had rather keep <hi>Christmas</hi> with him, then <hi>Lent;</hi> rather trust his Opinion in things wherein he uses his own Reason, then where he pins his Faith on the Par<g ref="char:EOLhyphen"/>son's Sleeve; and rather trust him in a difference betwixt me and my Neighbour, then make him my Representative in Parliament: For his Principle is to be gui<g ref="char:EOLhyphen"/>ded by the Clergy, their Principle is to make themselves pass for the Church, and then to take the best way to Preferment in it, and that best way is to make the King and the Bishop absolute, and that's the sure way to make us all Slaves. Be<g ref="char:EOLhyphen"/>sides, though perhaps he means well, yet I'm sure he's mistaken, whilst by perse<g ref="char:EOLhyphen"/>cuting <hi>Dissenting Protestants,</hi> and magnifying the danger from them, he does that out of Simplicity which the <hi>Papists</hi> do out of Villany, when they forg'd the <hi>Pres<g ref="char:EOLhyphen"/>byterian Plot</hi> to make the <hi>Protestants</hi> destroy one another, who must needs master the <hi>Papists</hi> if they united among themselves.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Why sure <hi>Tom,</hi> thou do'st not mean, I hope, to chuse old <hi>Sell-Trust</hi> the <hi>Pensioner</hi> again, though he bids most, and spends freest for it: for my part, I'd as soon vote for <hi>Old Nick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>He that sells dear, may afford to buy so: But we are so much oblig'd to Mr. <hi>Sell-Trust</hi> for his past Services, that I know not how to requite him as he de<g ref="char:EOLhyphen"/>serves, but thus: Let's promise all to Vote for him, if he'll Treat us Nobly; let's drink Sack, and feast jollily upon him till the day comes, and then let's tell him, There's a Scotch Proverb which says, <hi>If a Man deceive me once, the Devil take Him; but if he deceive me twice, the Devil take Both:</hi> And that since he voted our Money into his own Pocket, 'twas but just we should wheadle some of it back again into our Belleys; but yet because we would not break our words with him, nor let his old Master <hi>Danby</hi>'s new Directions to set them all at work again, produce nothing, we would Vote for him as we said Unanimously, but it should be, <hi>That he and the rest of his Brethren, the Pensioners should be all hang'd by the next Parliament:</hi> And so we remain yours to serve you thus at any time, honest Mr. <hi>Sell-Trust.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Faith I cann't forbear laughing to think of the Jest on't; we'll be sure to do't: But then who shall we chuse man?</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Who shou'd we chuse, but Mr. <hi>Blunt</hi> and Mr. <hi>Ʋnity?</hi> Men that we know wou'd rather enlarge then lessen the Liberties of an Englishman, and the Pale of the <hi>Protestant Religion;</hi> that will not part with any of our Money till we are se<g ref="char:EOLhyphen"/>cur'd of the rest; that will not be loo'd on the <hi>Fanaticks</hi> by a Trick, to save the <hi>Papists:</hi> In a word, Men that we have had good experience of, that they are Com<g ref="char:EOLhyphen"/>plement-proof, Feast-proof, Sermon-proof, and Bribe-proof: And if they don't court us, let us court them, and chuse them whether they will or no; for they have but the Honour and the Trouble on't, but we have the Benefit and the Security.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Troth, <hi>Tom,</hi> agreed; for I never heard of a Lords Head got in <hi>Parliament</hi> cheaper then the last was; and if we had had all the Bills the <hi>Commons</hi> past, I'd ha' been content to pay Taxes for one year with all my heart. Well I'll go whisper this about, and enjoyn Secrecy, that we may not fail of obliging Mr. <hi>Sell-Trust,</hi> as 'tis intended—But hold, I had forgot to tell thee one thing, they all say, That if we have any Exceptions to themselves, 'twill please them as well if we chuse their Sons.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Oh Fire! Murder! Treason! Then 'tis a plain Design to pack another Club of Voting Knaves to undo us: They care not who 'tis, so it be one of their own Gang: Trust none of 'em, <hi>Will.</hi> A young Devil will cry, <hi>I</hi> &amp; <hi>No,</hi> as well as an old one: The young Cock will crow after his Father; and if thou put'st a young Fox that never robb'd a Henroost into the Goose-pen, thou'lt soon see how Nature will teach him to play with the Flock. They have a mind to breed their Sons Knaves, and wou'd have us enter them in <hi>Parliament</hi> for them. Go thy way im<g ref="char:EOLhyphen"/>mediately, and do as thou said'st, satisfie all thy Neighbours, and God speed.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Farewel: I'll fly about the Town in a minute.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
